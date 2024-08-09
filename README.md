@@ -22,7 +22,7 @@
 #### Clone the repo
 
 ```sh
-git clone ...
+git clone https://github.com/Jonathan-Chayna/BTC-MGen.git
 ```
 
 #### Open directory
@@ -41,7 +41,7 @@ sudo ./btcmgen.sh
 #### All commands combined
 
 ```sh
-git clone ...
+git clone https://github.com/Jonathan-Chayna/BTC-MGen.git
 cd BTC-MGen/
 chmod +x btcmgen.sh
 sudo ./btcmgen.sh
