@@ -62,7 +62,7 @@ sudo ./btcmgen.sh
 ## Development
 
 #### Want to contribute? Great!
-> My Telegram: `@JCFunnyGamer21`
+> My Telegram: [![TG](https://imgur.com/9ZYnhfz.png)](https://t.me/JCFunnyGamer21)
 
 ## License
 
